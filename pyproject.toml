@@ -8,6 +8,7 @@ dependencies = [
     "beautifulsoup4>=4.14.3",
     "black>=26.1.0",
     "cartopy>=0.25.0",
+    "dask>=2026.1.2",
     "earthpy>=0.9.4",
     "geemap>=0.37.1",
     "geopandas>=1.1.2",
