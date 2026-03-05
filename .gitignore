@@ -214,3 +214,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Nasa EarthData user files.
+.netrc
+.urs_cookies
+.dodsrc
