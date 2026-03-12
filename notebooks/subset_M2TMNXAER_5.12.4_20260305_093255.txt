@@ -1,0 +1,2 @@
+https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNXAER.5.12.4/doc/MERRA2.README.pdf
+https://data.gesdisc.earthdata.nasa.gov/data/MERRA2_MONTHLY/M2TMNXAER.5.12.4/1980/MERRA2_100.tavgM_2d_aer_Nx.198001.nc4
