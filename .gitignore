@@ -219,3 +219,6 @@ __marimo__/
 .netrc
 .urs_cookies
 .dodsrc
+
+# Project Data
+DATA/
